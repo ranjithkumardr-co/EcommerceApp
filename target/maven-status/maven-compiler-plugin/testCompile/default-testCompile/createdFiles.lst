@@ -1,0 +1,6 @@
+com\ecommerce\controller\test\CartControllerTest.class
+com\ecommerce\controller\test\UserControllerTest.class
+com\ecommerce\controller\test\ProductControllerTest.class
+com\ecommerce\service\test\ProductServiceImplTest.class
+com\ecommerce\service\test\UserServiceImplTest.class
+com\ecommerce\service\test\CartServiceImplTest.class
